@@ -8,10 +8,16 @@ LICENSE: [MIT](./License.md)
 
 ### Содержание:
 
-1. [Основы](./basics.md)
-2. [git add](./add.md)
+1. [Общие положения](./basics.md)
+2. [Основные команды GIT](./basic%20commands.md)
+3. [Установка GIT](./install.md)
+4. [Настройка GIT](./setting.md)
+5. [Создание репозитория](./create%20Repositories.md)
+6. [Создание первого проекта и его публикация на GitHub]
 
+Для лучшего обучения, оставлю вам ссылку на бесплатный тренажер по Git.
 
+https://learngitbranching.js.org/
 
 ---
 
