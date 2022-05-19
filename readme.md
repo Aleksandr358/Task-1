@@ -6,14 +6,17 @@ LICENSE: [MIT](./License.md)
 
 ---
 
-### Содержание:
+### **Содержание**:
 
 1. [Общие положения](./basics.md)
 2. [Основные команды GIT](./basic%20commands.md)
 3. [Установка GIT](./install.md)
 4. [Настройка GIT](./setting.md)
 5. [Создание репозитория](./create%20Repositories.md)
-6. [Заключение](./conclusion.md)
+6. [Что такое Github?](./Github.md)
+7. [Регистрация на Github](./registration%20Github.md)
+8. [Как опубликовать первый проект на Github]
+9. [Заключение](./conclusion.md)
 
 Для лучшего обучения, оставлю вам ссылку на бесплатный тренажер по Git.
 
