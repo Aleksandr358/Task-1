@@ -16,6 +16,7 @@ LICENSE: [MIT](./License.md)
 6. [Что такое Github?](./Github.md)
 7. [Регистрация на Github](./registration%20Github.md)
 8. [Как опубликовать первый проект на Github](./to%20publish.md)
+9. [Создание проекта с нуля](./create%20project.md)
 9. [Заключение](./conclusion.md)
 
 Для лучшего обучения, оставлю вам ссылку на бесплатный тренажер по Git.
